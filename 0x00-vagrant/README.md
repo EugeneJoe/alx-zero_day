@@ -1,3 +1,4 @@
 # Hello Ubuntu
 
-Shows the kernel name of my remote server.
+Shows the operating system running on my remote server.
+
