@@ -1,1 +1,1 @@
-# The beginning of this exciting journey
+# The beginning of an exciting journey of discovery
